@@ -1,0 +1,4 @@
+interface:
+  display_name: "QNX Guide Writer"
+  short_description: "Turn QNX transcripts into short practical guides"
+  default_prompt: "Use $qnx-transcript-guide to convert this QNX lesson transcript into a short practical study guide with diagrams and examples."
