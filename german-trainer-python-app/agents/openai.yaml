@@ -1,0 +1,4 @@
+interface:
+  display_name: "German Trainer App Builder"
+  short_description: "Build modular Python apps for German practice"
+  default_prompt: "Use $german-trainer-python-app to design and implement a modular Python app that teaches German with popup exercises and extensible APIs."
